@@ -9,3 +9,9 @@ jobs:
   CD:
     name: Continuous Delivery
     runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+ 
