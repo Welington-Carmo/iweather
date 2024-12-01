@@ -44,7 +44,7 @@ jobs:
         with:
           eas-version: latest
           packager: npm
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.EAS_EXPO_TOKEN }}
 
         
       - name: Build
