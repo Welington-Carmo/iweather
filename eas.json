@@ -6,15 +6,8 @@
     "preview": {
       "android": {
         "distribution": "internal"
-      },
-      "env": {
-        "EXPO_PUBLIC_WEATHER_APP_ID": "4367ce8bcc7e3b663eb1d24b81adb26b"
       }
     },
-    "production": {
-      "env": {
-        "EXPO_PUBLIC_WEATHER_APP_ID": "4367ce8bcc7e3b663eb1d24b81adb26b"
-      }
-    }
+    "production": {}
   }
 }
