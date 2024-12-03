@@ -6,8 +6,11 @@
     "preview": {
       "android": {
         "distribution": "internal"
-      }
+      },
+      "channel": "preview"
     },
-    "production": {}
+    "production": {
+      "channel": "production"
+    }
   }
 }
